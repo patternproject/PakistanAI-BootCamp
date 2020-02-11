@@ -1,0 +1,2 @@
+# PakistanAI-BootCamp
+Bootcamp Exercises 
